@@ -1,6 +1,6 @@
 <?php
 
-namespace Axiox\PoliticasPrivacidad\Controller\Index;
+namespace Akiox\PoliticasPrivacidad\Controller\Index;
 
 class Index extends \Magento\Framework\App\Action\Action
 {
