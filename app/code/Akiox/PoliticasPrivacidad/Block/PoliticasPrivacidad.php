@@ -1,5 +1,5 @@
 <?php
-namespace Axiox\PoliticasPrivacidad\Block;
+namespace Akiox\PoliticasPrivacidad\Block;
 
 class PoliticasPrivacidad extends \Magento\Framework\View\Element\Template
 {
