@@ -1,0 +1,17 @@
+<config>
+    <!-- ... -->
+        <frontend>
+            <routers>
+                <!-- the <helloworld> tagname appears to be arbitrary, but by
+                convention is should match the frontName tag below-->
+                <helloworld>
+                    <use>standard</use>
+                    <args>
+                        <module>MyCompanyName_HelloWorld</module>
+                        <frontName>helloworld</frontName>
+                    </args>
+                </helloworld>
+            </routers>
+        </frontend>
+    <!-- ... -->
+    </config>
