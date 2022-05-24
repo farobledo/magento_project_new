@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Poesia_HolaMundo>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Poesia_HolaMundo>
+    </modules>
+</config>
