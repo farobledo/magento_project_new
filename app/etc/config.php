@@ -1,6 +1,7 @@
 <?php
 return [
     'modules' => [
+        'Mageplaza_HelloWorld' => 1,
         'Magento_AdminAnalytics' => 1,
         'Magento_Store' => 1,
         'Magento_AdobeIms' => 1,

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Opcionalmente podemos poner un comentario contando qué hace nuestro módulo, nuestra web,
+información sobre la licencia, etc
+-->
+<config>
+    <modules>
+        <Poesia_HolaMundo> <!-- namespace_modulo -->
+
+            <!-- Esta es la versión de nuestro módulo -->
+            <version>0.0.1</version>
+
+        </Poesia_HolaMundo>
+    </modules>
+</config>
