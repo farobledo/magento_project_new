@@ -1,7 +1,6 @@
 <?php
 return [
     'modules' => [
-        'Mageplaza_HelloWorld' => 1,
         'Magento_AdminAnalytics' => 1,
         'Magento_Store' => 1,
         'Magento_AdobeIms' => 1,
@@ -233,10 +232,10 @@ return [
         'Magento_Wishlist' => 1,
         'Magento_WishlistAnalytics' => 1,
         'Magento_WishlistGraphQl' => 1,
-        'Akiox_PoliticasPrivacidad' => 1,
         'Amazon_Core' => 1,
         'Amazon_Login' => 1,
         'Amazon_Payment' => 1,
+        'Aventi_Hello' => 1,
         'Dotdigitalgroup_Email' => 1,
         'Dotdigitalgroup_Chat' => 1,
         'Klarna_Core' => 1,
@@ -244,7 +243,7 @@ return [
         'Klarna_Kp' => 1,
         'Magento_PaypalReCaptcha' => 1,
         'MSP_TwoFactorAuth' => 1,
-        'Magetop_Smtp' => 1,
+        'Mageplaza_HelloWorld' => 1,
         'Temando_ShippingRemover' => 1,
         'Vertex_Tax' => 1,
         'Vertex_AddressValidation' => 1,
